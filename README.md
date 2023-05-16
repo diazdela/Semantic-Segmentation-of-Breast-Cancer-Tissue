@@ -14,5 +14,5 @@ There was also a lot of path calling due to the amount of images and masks
 ex: r'/content/CrowdsourcingDataset-Amgadetal2019/images'
 
 As for contribution:
-Aidan Franklin and Ethan Cossu: found the Breast Cancer Semantic Segmentation Dataset file
-Victoria Diaz de la Rocha: found the Pytorch semantic segmentation model file
+Aidan Franklin and Ethan Cossu: found the Breast Cancer Semantic Segmentation Dataset file.
+Victoria Diaz de la Rocha: found the Pytorch semantic segmentation model file.
